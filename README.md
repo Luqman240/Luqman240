@@ -1,10 +1,10 @@
 ![MasterHead](https://raw.githubusercontent.com/Luqman240/Luqman240/main/github%20banner.png)
 <h1 align="center">Hello there, I'm Luqman SAID MOHAMED</h1>
-<h3 align="center">A passionate IT Student and Fullstack Developer from France</h3>
+<h3 align="center">A passionate IT Student and Web Developer from France</h3>
 <img align="right" alt="CODING" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luqman240&label=Profile%20views&color=0e75b6&style=flat" alt="luqman240" /> </p>
 
-- 🔭 I’m currently working on **schedl, a project management app**
+- 🔭 I’m currently working on **pomo, a pomodoro/task management app**
 
 - 🌱 I’m currently learning **AI / ML / DL**
 
